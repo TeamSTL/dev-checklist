@@ -8,3 +8,4 @@
 - [ ] Fishing
 - [ ] Fugitives base
 - [ ] More shops like frosty's
+- [ ] Better outside decorations
