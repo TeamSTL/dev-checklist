@@ -5,3 +5,6 @@
 - [x] Team change RemoteEvents via FireServer()
 - [ ] Implement ban system
 - [ ] Sprinting (oh fine i'll implement it...)
+- [ ] Fishing
+- [ ] Fugitives base
+- [ ] More shops like frosty's
