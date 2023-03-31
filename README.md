@@ -10,4 +10,5 @@
 - [ ] Better outside decorations
 - [ ] Warden being able to change photos in the wardens room portraits.
 - [ ] Handcuffs only arresting prisoners,crims and solitary and not arresting Police.
+
 Currently in progress: Ban system (fork of fusion)
