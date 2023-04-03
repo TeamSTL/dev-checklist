@@ -2,7 +2,10 @@
 - [x] Lighting redo
 - [x] Crafting
 - [x] Team change RemoteEvents via FireServer()
-- [ ] Implement ban system
+- [x] Implement ban system
+- [x] Justice!
+- [ ] CI/CD
+- [ ] Ban system reasoning
 - [ ] Sprinting (oh fine i'll implement it...)
 - [ ] Fishing
 - [ ] Fugitives base
