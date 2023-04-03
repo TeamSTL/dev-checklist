@@ -14,4 +14,4 @@
 - [ ] Warden being able to change photos in the wardens room portraits.
 - [ ] Handcuffs only arresting prisoners,crims and solitary and not arresting Police.
 
-Currently in progress: Ban system (fork of fusion)
+Currently in progress: CI/CD and ban reasoning, also remove /ban and /unban in favour of admin panel
