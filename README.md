@@ -4,7 +4,6 @@
 - [x] Team change RemoteEvents via FireServer()
 - [x] Implement ban system
 - [x] Justice!
-- [ ] CI/CD
 - [ ] Ban system reasoning
 - [ ] Sprinting (oh fine i'll implement it...)
 - [ ] Fishing
