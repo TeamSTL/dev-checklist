@@ -1,10 +1,10 @@
 # STL Development checklist
+## Current version: 0.7
 - [x] Lighting redo
 - [x] Crafting
 - [x] Team change RemoteEvents via FireServer()
 - [x] Implement ban system
 - [x] Justice!
-- [ ] Ban system reasoning
 - [ ] Sprinting (oh fine i'll implement it...)
 - [ ] Fishing
 - [ ] Fugitives base
@@ -15,5 +15,4 @@
 - [ ] Team limit with gui
 - [ ] More guns and with yellow or orange lines when you shoot
 - [ ] Add crouching back (same mechanics but server sided)
-
-Currently in progress: CI/CD and ban reasoning, also remove /ban and /unban in favour of admin panel
+- [ ] Craftable items around map
