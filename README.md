@@ -7,8 +7,8 @@
 - [x] Justice!
 - [ ] Sprinting (oh fine i'll implement it...)
 - [ ] Fishing
-- [ ] Fugitives base
-- [ ] More shops like frosty's
+- [x] Fugitives base
+- [x] More shops like frosty's
 - [ ] Better outside decorations
 - [ ] Warden being able to change photos in the wardens room portraits.
 - [ ] Handcuffs only arresting prisoners,crims and solitary and not arresting Police.
